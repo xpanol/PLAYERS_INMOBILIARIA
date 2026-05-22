@@ -1,0 +1,22 @@
+[
+  {
+    "text": "What",
+    "start": 0.0,
+    "end": 0.22
+  },
+  {
+    "text": "documentation",
+    "start": 0.22,
+    "end": 0.82
+  },
+  {
+    "text": "is",
+    "start": 0.82,
+    "end": 1.16
+  },
+  {
+    "text": "required?",
+    "start": 1.16,
+    "end": 1.42
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Is",
+    "start": 0.0,
+    "end": 0.22
+  },
+  {
+    "text": "there",
+    "start": 0.22,
+    "end": 0.38
+  },
+  {
+    "text": "room",
+    "start": 0.38,
+    "end": 0.64
+  },
+  {
+    "text": "for",
+    "start": 0.64,
+    "end": 0.8
+  },
+  {
+    "text": "negotiation?",
+    "start": 0.8,
+    "end": 1.0
+  }
+]

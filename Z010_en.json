@@ -1,0 +1,32 @@
+[
+  {
+    "text": "What",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "text": "is",
+    "start": 0.24,
+    "end": 0.36
+  },
+  {
+    "text": "the",
+    "start": 0.36,
+    "end": 0.48
+  },
+  {
+    "text": "usable",
+    "start": 0.48,
+    "end": 0.78
+  },
+  {
+    "text": "floor",
+    "start": 0.78,
+    "end": 1.12
+  },
+  {
+    "text": "area?",
+    "start": 1.12,
+    "end": 1.48
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "text": "What",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "text": "is",
+    "start": 0.24,
+    "end": 0.36
+  },
+  {
+    "text": "the",
+    "start": 0.36,
+    "end": 0.48
+  },
+  {
+    "text": "final",
+    "start": 0.48,
+    "end": 0.74
+  },
+  {
+    "text": "price?",
+    "start": 0.74,
+    "end": 1.02
+  }
+]

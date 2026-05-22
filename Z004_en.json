@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Does",
+    "start": 0.0,
+    "end": 0.22
+  },
+  {
+    "text": "it",
+    "start": 0.22,
+    "end": 0.34
+  },
+  {
+    "text": "include",
+    "start": 0.34,
+    "end": 0.64
+  },
+  {
+    "text": "community",
+    "start": 0.64,
+    "end": 1.06
+  },
+  {
+    "text": "fees?",
+    "start": 1.06,
+    "end": 1.4
+  }
+]
