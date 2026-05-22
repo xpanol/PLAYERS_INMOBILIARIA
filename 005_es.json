@@ -1,0 +1,32 @@
+[
+  {
+    "text": "¿Está",
+    "start": 0.0,
+    "end": 0.36
+  },
+  {
+    "text": "listo",
+    "start": 0.36,
+    "end": 0.68
+  },
+  {
+    "text": "para",
+    "start": 0.68,
+    "end": 0.82
+  },
+  {
+    "text": "entrar",
+    "start": 0.82,
+    "end": 1.04
+  },
+  {
+    "text": "a",
+    "start": 1.04,
+    "end": 1.16
+  },
+  {
+    "text": "vivir?",
+    "start": 1.16,
+    "end": 1.3
+  }
+]
