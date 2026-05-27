@@ -1,12 +1,12 @@
 {
-  "1": "#LOVEIT",
-  "2": "#SMILE",
-  "3": "#DONTCARE",
-  "4": "#LOVEIT",
-  "5": "#SMILE",
-  "6": "#HATEIT",
-  "7": "#LOVEIT",
-  "8": "#SMILE",
-  "9": "#DONTCARE",
-  "10": "#HATEIT"
+  "1": "AVAILABILITY",
+  "2": "VISITS",
+  "3": "PRICE",
+  "4": "PRICE",
+  "5": "DETAILS",
+  "6": "LEGAL",
+  "7": "LEGAL",
+  "8": "NEGOTIATION",
+  "9": "LEGAL",
+  "10": "DETAILS"
 }
